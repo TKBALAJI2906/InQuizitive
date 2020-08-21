@@ -8,11 +8,13 @@ Inquizitive is a Quiz app, where any person can host their own quiz and share it
 # APPLICATION USER MANUAL
 InQuiz application is designed to support e- Learning. Exams have important role in the process of learning. Exams and tests are a great way to assess and analyze a student’s strengths and weakness. Also, exams play a major role in assisting our educational system. This app is designed such a way that it helps the educators to conduct assessment. Though there exist some platforms like Google forms, form presenter, etc… to conduct assessments, students can easily bypass and do malpractice. This application provides a path to block all such malpracticing activities. Here the educator can post questions of various types like Multiple Choice, Short Answers, Long Answers, True/ False questions which covers all the pattern of an assessment system. The educator can upload the questions to the database and once it is done, he will be given with a unique access code.
 This code has to be shared with his students/ subordinates to attend the exam. It has a inbuilt timing system. As a prototype level it’s been made with a constant timing for all questions. Launching in production level, the timing variables will be set for each question, which means that either the teacher can set timing for each question or a time as a whole for the total test.
-Also, the educator can view of the result of the student at anytime anywhere basis with this app. During the pandemic situation like Covid – 19, this app will help educators in envisioning millions of students.
+Also, the educator can view of the result of the student at anytime anywhere basis with this app. During the pandemic situation like Covid – 19, this app will help educators in envisioning millions of students. In Similar way, any person can see the scores and details of the InQuiz they have participated at any time.
+
 ## FACILITIES PROVIDED AS OF PROTOTYPE MODE:
 • The teacher can view the performance of the student
 • Can be provided free for all the educators and students
 • Incase of larger organizational activities, the cut off cost is as much as low (based on database service providers). This is because the database and queries used in the app or more optimized.
+
 ## FEATURES TO BE INCLUDED IN NEAR FUTURE (FOR PRODUCTION MODE):
 • This is planned to extend to provide different question types like Matching Question and Answers, Reason and Assertion type, so that the educator can broaden his vision in setting questions, which in turn helps the student in better understanding the subjects.
 • Educator can review, comment and feedback the student’s performance as a whole and assessment wise.
